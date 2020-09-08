@@ -1,2 +1,4 @@
-# MeterCrawler
-Electricity meter crawling scripts in CCNU.
+# MeterScratch
+
+华师电表爬取脚本
+
